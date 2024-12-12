@@ -52,6 +52,11 @@ This Python project creates a weight converter GUI that allows users to convert 
    ```python
    window.mainloop()
    ```
+![Screenshot (18)](https://github.com/user-attachments/assets/a08de0c0-dfbb-4188-9998-587f56cfe4b5)
 
 ### Output:
 The program allows users to input a weight in kilograms and displays the converted weight in grams, ounces, or pounds when the corresponding button is clicked.
+
+https://github.com/user-attachments/assets/28b5665e-d426-455d-8fbc-c571af1ef692
+
+
